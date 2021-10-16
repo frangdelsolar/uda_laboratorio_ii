@@ -1,0 +1,32 @@
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.deps.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.runtimeconfig.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.runtimeconfig.dev.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\bin\Debug\net5.0\ref\ElSoldado.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.csproj.AssemblyReference.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.AssemblyInfoInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.AssemblyInfo.cs
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.csproj.CoreCompileInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\obj\Debug\net5.0\ref\ElSoldado.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.genruntimeconfig.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.deps.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.runtimeconfig.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.runtimeconfig.dev.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\bin\Debug\net5.0\ref\ElSoldado.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\bin\Debug\net5.0\ElSoldado.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.csproj.AssemblyReference.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.AssemblyInfoInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.AssemblyInfo.cs
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.csproj.CoreCompileInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\obj\Debug\net5.0\ref\ElSoldado.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\ElSoldado\ElSoldado\obj\Debug\net5.0\ElSoldado.genruntimeconfig.cache

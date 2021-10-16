@@ -1,0 +1,32 @@
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.deps.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.runtimeconfig.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.runtimeconfig.dev.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\ref\CarritoDeCompras.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.csproj.AssemblyReference.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.AssemblyInfoInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.AssemblyInfo.cs
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\ref\CarritoDeCompras.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\El Soldado\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.genruntimeconfig.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.deps.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.runtimeconfig.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.runtimeconfig.dev.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\ref\CarritoDeCompras.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\bin\Debug\net5.0\CarritoDeCompras.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.csproj.AssemblyReference.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.AssemblyInfoInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.AssemblyInfo.cs
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\ref\CarritoDeCompras.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\clase 10\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.genruntimeconfig.cache

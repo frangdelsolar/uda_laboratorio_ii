@@ -1,0 +1,10 @@
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.AssemblyReference.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.Form1.resources
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.Properties.Resources.resources
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.GenerateResource.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
