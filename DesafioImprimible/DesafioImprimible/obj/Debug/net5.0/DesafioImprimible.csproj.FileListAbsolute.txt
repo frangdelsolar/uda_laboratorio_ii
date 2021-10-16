@@ -1,0 +1,16 @@
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\bin\Debug\net5.0\DesafioImprimible.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\bin\Debug\net5.0\DesafioImprimible.deps.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\bin\Debug\net5.0\DesafioImprimible.runtimeconfig.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\bin\Debug\net5.0\DesafioImprimible.runtimeconfig.dev.json
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\bin\Debug\net5.0\DesafioImprimible.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\bin\Debug\net5.0\ref\DesafioImprimible.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\bin\Debug\net5.0\DesafioImprimible.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\obj\Debug\net5.0\DesafioImprimible.csproj.AssemblyReference.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\obj\Debug\net5.0\DesafioImprimible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\obj\Debug\net5.0\DesafioImprimible.AssemblyInfoInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\obj\Debug\net5.0\DesafioImprimible.AssemblyInfo.cs
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\obj\Debug\net5.0\DesafioImprimible.csproj.CoreCompileInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\obj\Debug\net5.0\DesafioImprimible.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\obj\Debug\net5.0\ref\DesafioImprimible.dll
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\obj\Debug\net5.0\DesafioImprimible.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Clase 13\DesafioImprimible\DesafioImprimible\obj\Debug\net5.0\DesafioImprimible.genruntimeconfig.cache
