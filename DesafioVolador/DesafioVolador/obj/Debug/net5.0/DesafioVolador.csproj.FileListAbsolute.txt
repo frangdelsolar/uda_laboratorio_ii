@@ -1,0 +1,16 @@
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\obj\Debug\net5.0\DesafioVolador.csproj.AssemblyReference.cache
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\obj\Debug\net5.0\DesafioVolador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\obj\Debug\net5.0\DesafioVolador.AssemblyInfoInputs.cache
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\obj\Debug\net5.0\DesafioVolador.AssemblyInfo.cs
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\obj\Debug\net5.0\DesafioVolador.csproj.CoreCompileInputs.cache
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\bin\Debug\net5.0\DesafioVolador.exe
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\bin\Debug\net5.0\DesafioVolador.deps.json
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\bin\Debug\net5.0\DesafioVolador.runtimeconfig.json
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\bin\Debug\net5.0\DesafioVolador.runtimeconfig.dev.json
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\bin\Debug\net5.0\DesafioVolador.dll
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\bin\Debug\net5.0\ref\DesafioVolador.dll
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\bin\Debug\net5.0\DesafioVolador.pdb
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\obj\Debug\net5.0\DesafioVolador.dll
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\obj\Debug\net5.0\ref\DesafioVolador.dll
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\obj\Debug\net5.0\DesafioVolador.pdb
+C:\Users\frang\source\repos\DesafioVolador\DesafioVolador\obj\Debug\net5.0\DesafioVolador.genruntimeconfig.cache
