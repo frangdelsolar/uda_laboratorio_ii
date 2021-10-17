@@ -1,0 +1,10 @@
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\bin\Release\DesafioElectroForm.exe.config
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\bin\Release\DesafioElectroForm.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\bin\Release\DesafioElectroForm.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\obj\Release\DesafioElectroForm.csproj.AssemblyReference.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\obj\Release\DesafioElectroForm.Form1.resources
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\obj\Release\DesafioElectroForm.Properties.Resources.resources
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\obj\Release\DesafioElectroForm.csproj.GenerateResource.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\obj\Release\DesafioElectroForm.csproj.CoreCompileInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\obj\Release\DesafioElectroForm.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Github\DesafioElectroForm\DesafioElectroForm\obj\Release\DesafioElectroForm.pdb
