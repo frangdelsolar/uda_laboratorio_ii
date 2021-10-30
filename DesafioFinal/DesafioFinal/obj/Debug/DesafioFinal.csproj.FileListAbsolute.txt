@@ -1,0 +1,10 @@
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\bin\Debug\DesafioFinal.exe.config
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\bin\Debug\DesafioFinal.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\bin\Debug\DesafioFinal.pdb
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\obj\Debug\DesafioFinal.csproj.AssemblyReference.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\obj\Debug\DesafioFinal.TiendaForm.resources
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\obj\Debug\DesafioFinal.Properties.Resources.resources
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\obj\Debug\DesafioFinal.csproj.GenerateResource.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\obj\Debug\DesafioFinal.csproj.CoreCompileInputs.cache
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\obj\Debug\DesafioFinal.exe
+C:\Users\frang\Google Drive\00 Formación\00 Lic. en Dllo de Software\1er año\Laboratorio II\Práctica\Final\DesafioFinal\obj\Debug\DesafioFinal.pdb

@@ -121,9 +121,10 @@ namespace DesafioElectroForm
                 if (electro.tipo == "Lavadora") totalLavadora += electro.precioBase;
             }
 
+            lblTotalTV.Text = "Total TV: $" + totalTV;
+            lblTotalLavadoras.Text = "Total Lavadoras: $" + totalLavadora;
             lblTotalElectro.Text = "Total: $" + total;
-            lblTotalTV.Text = "Total: $" + totalTV;
-            lblTotalLavadoras.Text = "Total: $" + totalLavadora;
+
         }
 
 
